@@ -1,31 +1,20 @@
-# Note Taking App made in Flutter with Sqlite database 
- This is a note taking app made with flutter.<br>
-## Concepts used:
-<ul>
-<li>Sqlite database to store custom Note object.</li>
-<li>Search Functionality</li>
-<li>Staggered GridView</li>
-</ul>
+# Notes-Vito
 
-Video Demo: https://www.youtube.com/watch?v=Fg68VND8unE <br><br>
 
-If you want to use firebase to store the notes online, check out this [repo](https://github.com/prabhashrai02/notes-app) .
+A simple textfield for adding quick notes.
 
-Screenshots:<br>
-<table style={border:"none"}><tr>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538958-2ae63100-7369-11e9-9efc-102497249cdd.png" alt="Screenshot 2"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538952-29b50400-7369-11e9-9b42-6a5770cb18e6.png" alt="Screenshot 1"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538950-29b50400-7369-11e9-990f-1d2fb7a9d1a0.png" alt="Screenshot 3"/></td>
-
-</tr>
-<tr>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538957-2ae63100-7369-11e9-8506-1cd7decf1815.png" alt="Screenshot 1"/></td>
-
-<td><img src="https://user-images.githubusercontent.com/29589003/57538953-2a4d9a80-7369-11e9-9249-6020ae6eb949.png" alt="Screenshot 2"/></td>
-<td><img src="https://user-images.githubusercontent.com/29589003/57538954-2a4d9a80-7369-11e9-8b25-3f2027a422b8.png" alt="Screenshot 3"/></td>
+You can access the note in no time by using the customizable and resizable widget, which opens the app on click.
 
 
 
-</tr>
 
-</table>
+
+
+# Project requirements:
+* Link to a repository 
+1) your code :white_check_mark:
+2) must be in SOLID principles :white_check_mark:
+3) must get all content from database (can be local (sqlite, hive,moor) or online (firebase, from server))  :white_check_mark:
+4) everything must be in null safety :white_check_mark:
+5) bloc must be implemented :white_check_mark:
+6) Animation and design (figma or other) :white_check_mark:  [Figma](https://www.figma.com/file/QrnWM9Fw0dNAd3Ekm4wbIC/Notes-Vito?node-id=0%3A1)
